@@ -1,0 +1,7 @@
+step1 - encoding of basic categories: level of education, time schedule, driver license category, etc.
+step2.1 - encoding names of universities by their ratings.
+step2.2 - encoding names of universities by average points of 1st year students' high school state exams.
+step3.1 - encoding position names by desider salary (in a train set).
+step3.2 - encoding position names by desider salary (in a test set).
+step4 - encoding WorldSkill features.
+step5 - aggregating position names and encoding top 50.
