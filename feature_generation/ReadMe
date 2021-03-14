@@ -1,4 +1,4 @@
-- [FeatGen_SimpleFeat.ipynb](FeatGen_SimpleFeat.ipynb) creates simple features based on dates, aggregates info on education and previous work experience.
-- [FeatGen_SpellCheck.ipynb](FeatGen_SpellCheck.ipynb) creates a feature "Per cent of grammar mistakes in a CV".
-- [FeatGen_Cluster_by_Responsibility.ipynb](FeatGen_Cluster_by_Responsibility.ipynb) 1) clusters CVs based on textual information about a person's work responsibilities; 2) computes an average salary for each cluster.
-- [FeatGen_ResponsibTextStats.ipynb](FeatGen_ResponsibTextStats.ipynb) generates statistical features from CV texts: length, use of punctuation, use of upper case, etc.
+- FeatGen_SimpleFeat.ipynb creates simple features based on dates, aggregates info on education and previous work experience.
+- FeatGen_SpellCheck.ipynb creates a feature "Per cent of grammar mistakes in a CV".
+- FeatGen_Cluster_by_Responsibility.ipynb 1) clusters CVs based on textual information about a person's work responsibilities; 2) computes an average salary for each cluster.
+- FeatGen_ResponsibTextStats.ipynb generates statistical features from CV texts: length, use of punctuation, use of upper case, etc.
